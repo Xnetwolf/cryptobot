@@ -1,1 +1,0 @@
-Crypto telegram promotion bot
